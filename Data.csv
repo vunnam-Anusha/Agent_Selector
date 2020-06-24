@@ -1,0 +1,21 @@
+Name,Role,Availability,Available Since in hours
+Agent1,Sales,Not_Avaliable,4
+Agent2,Sales,Not_Avaliable,5
+Agent3,Support,Available,4
+Agent4,Support,Not_Avaliable,3
+Agent5,Spanish Speaker,Not_Avaliable,1
+Agent6,Sales,Not_Avaliable,1
+Agent7,Support,Not_Avaliable,3
+Agent8,Sales,Available,3
+Agent9,Sales,Available,3
+Agent10,Sales,Not_Avaliable,2
+Agent11,Support,Available,1
+Agent12,Spanish Speaker,Not_Avaliable,2
+Agent13,Support,Not_Avaliable,4
+Agent14,Support,Not_Avaliable,1
+Agent15,Support,Not_Avaliable,2
+Agent16,Support,Not_Avaliable,5
+Agent17,Spanish Speaker,Available,2
+Agent18,Sales,Not_Avaliable,3
+Agent19,Spanish Speaker,Not_Avaliable,5
+Agent20,Spanish Speaker,Available,3
